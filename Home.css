@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.background-image{
+    background-image: url('https://wallpapercrafter.com/sizes/3840x2160/264222-laptop-and-lamp-on-desk-with-stacks-of-books-and-f.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+p{
+    font-family: monospace;
+    text-align: center;
+}
+h1{
+    font-family: monospace;
+    text-align: center;
+}
+h2{
+    font-family: monospace;
+}
+a{
+    color: black;
+    text-decoration: none;
+}

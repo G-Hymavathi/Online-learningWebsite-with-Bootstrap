@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.background-image{
+    background-image: url('https://img.freepik.com/premium-photo/3d-render-study-table-with-laptop-books-with-library-blurred-background_67155-15101.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+h3{
+    color: black;
+
+}
